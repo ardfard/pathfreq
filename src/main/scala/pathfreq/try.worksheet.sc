@@ -1,0 +1,1 @@
+pathfreq.PathFreq.getPage()
